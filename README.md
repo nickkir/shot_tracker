@@ -4,12 +4,13 @@ This is just an ongoing personal project to track basketballs through the air wi
 
 Most young basketball players don't know WHY they are missing shots, they just know they need to improve, and in most programs there aren't enough coaches to keep track of everyone's shooting tendencies. Furthermore, most high school and elementary school basketball programs have very limited budgets. To help young basketball players improve, I've started working on this project. 
 
-Then end goal is to position a cheap camera above the rim (similar to NBA's bird eye view cameras above the backboard) in order to track the ball through the air. Although significant testing for accuracy would be required, I hope to be able to track the following for each shot:
+Then end goal is to position a cheap camera above the rim (similar to NBA's bird eye view cameras above the backboard) in order to track the ball through the air (in three dimensions). Although significant testing for accuracy would be required, I hope to be able to track the following for each shot:
 - Make or miss
 - Shot angle (with respect to hand)
 - Left/right sway angle with respect to center of rim
 - Final x,y position on the plane containing the rim
 - Shot position on court (this would require the shooter's height)
+- The full trajectory (which would be estimated with polynomial regression)
 
 There are three major components that have been implemented so far:
 - The rim finding algorithm

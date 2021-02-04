@@ -27,5 +27,7 @@ Note: this is not object detection, and therefore, the algorithm takes the color
 Note: currently, on my machine, these videos are not being generated in real time (the inference is too slow). 
 
 ![](visuals/ball_tracking/slowmo.gif)
+
 ![](visuals/ball_tracking/fast_roll.gif)
+
 ![](visuals/ball_tracking/stationnary.gif)

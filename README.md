@@ -23,7 +23,7 @@ Over the coming weeks, I plan on commenting, formatting and documenting the code
 
 ## Rim Finding Algorithm Examples
 
-Note: this is not object detection, and therefore, the algorithm takes the color of the rim as input. Because of this, if there isn't sufficient contrast between the rim and background, the algorithm will fail miserably. 
+Note: this is not object detection, and therefore, the algorithm takes the color of the rim as input. Because of this, if there isn't sufficient contrast between the rim and background, the algorithm will fail miserably. Also, these are not simply drawn on, the rims are stored as OpenCV ellipse objects.
 
 ![](visuals/rim_detection/Figure_1.png)
 ![](visuals/rim_detection/rim2.png)

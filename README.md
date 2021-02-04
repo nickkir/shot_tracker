@@ -16,9 +16,9 @@ There are three major components that have been implemented so far:
 - The ball tracking (using TensorFlow models trained on the COCO dataset)
 - The fitting and parameterizing of the parabola
 
-As things currently stand, this repository is **not meant to be cloned and/or used** (notice that there is no license). In fact, the code will not even work because I have filepaths specified locally on my machine. The code was written just to be a proof of concept, and was written very hastily, so I would strongly advise against actually diving into the code. The goal is simply to showcase how the project is coming along via images and videos I have created using the code. 
+As things currently stand, this repository is **not meant to be cloned and/or used** (notice that there is no license). In fact, the code will not even work because I have filepaths specified locally on my machine. The code was written just to be a proof of concept, and was written very hastily, so I would strongly advise against actually diving into it. The goal is simply to showcase how the project is coming along via images and videos I have created using the different components. 
 
-Over the coming weeks, I plan on commenting, formatting and documenting the code so that it can actually be used by other programmers who also like coaching basketball.
+Over the coming months, I plan on commenting, formatting and documenting the code so that it can actually be used by other programmers who also like coaching basketball.
 
 ## Rim Finding Algorithm Examples
 

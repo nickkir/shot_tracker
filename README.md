@@ -1,3 +1,5 @@
+# Overview 
+
 This is just an ongoing personal project to track basketballs through the air with computer vision. 
 
 Then end goal is to position on a cheap camera above the rim (similar to NBA's bird eye view cameras above the backboard) in order to actually track the ball through the air, and fit the parabola. Although significant testing for accuracy would be required, I hope to be able to track the following for each shot:

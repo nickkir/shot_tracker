@@ -2,7 +2,7 @@
 
 This is just an ongoing personal project to track basketballs through the air with computer vision. 
 
-Most young basketball players don't know WHY they are missing shots, the just know they need to improve, and in most programs there aren't enough coaches to keep track of everyone's shooting tendencies. Furthermore, most high school and elementary school basketball programs have very limited budgets. To help young basketball players improve, I've started working on this project. 
+Most young basketball players don't know WHY they are missing shots, they just know they need to improve, and in most programs there aren't enough coaches to keep track of everyone's shooting tendencies. Furthermore, most high school and elementary school basketball programs have very limited budgets. To help young basketball players improve, I've started working on this project. 
 
 Then end goal is to position a cheap camera above the rim (similar to NBA's bird eye view cameras above the backboard) in order to track the ball through the air. Although significant testing for accuracy would be required, I hope to be able to track the following for each shot:
 - Make or miss
